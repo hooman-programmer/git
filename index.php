@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>This is</title>
+        <title>This is good practis for learning git and using it</title>
     </head>
     <body>
         <?php
